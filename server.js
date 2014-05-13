@@ -10,7 +10,7 @@ var iconv = require('iconv-lite');
 var app=express();
 var port=process.env.PORT||18080;
 
-app.use(express.static(__dirname+'/static'));
+app.use(express.static(__dirname));
 
 app.configure(function () {
     app.use(express.logger('tiny'));
@@ -22,7 +22,7 @@ io.sockets.on('connection',function(socket){
   socket.emit('connected')
 });
 
-var db=new PouchDB('test');
+//var db=new PouchDB('test');//创建一次后就不再创建
 
 console.log('成功建立端口'+port);
 

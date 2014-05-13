@@ -1,5 +1,7 @@
 {
     "name": "poison",
+    "main":"index.html",
+    "node-main":"server.js",
     "version": "1.0.0",
     "scripts": {
         "start": "node server.js"
