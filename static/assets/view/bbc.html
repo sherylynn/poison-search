@@ -1,0 +1,57 @@
+<input type="search" class="form-control app-search" placeholder="搜索话题..." />
+
+<div class="scrollable">
+  <div class="scrollable-content container-fluid section">
+    <div class="panel-group" id="accordion" ng-repeat="forum in forums">
+      <div class="panel panel-default">
+        <div class="panel-heading" toggle target="{{forum.title}}">
+          <h3 class="panel-title">
+            {{forum.title}}<i class="fa fa-chevron-down pull-right"></i>
+          </h3>
+        </div>
+        <div id="{{forum.title}}" toggleable active-class="in" exclusion-group="accordion1" default="active" class="panel-collapse collapse">
+          <div class="panel-body">
+            <div class="list-group">
+              <div class="list-group-item" ng-repeat="phy in phys">
+                <h3>{{phy}}<br/>
+                  <h5>{{search.point["一、理化性质"][phy]}}</h5>
+                </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <form action="" id="">
+      <div bs-panel title="新主题">
+        <input
+                bs-form-control
+
+                type="text"
+                ng-model="invoice.article"
+                label="标题名"
+                label-class="col-xs-3 col-sm-2 col-lg-1"
+                class="col-xs-9 col-sm-10 col-lg-11"
+                placeholder="关于毒物..."
+                />
+
+      </div>
+      <div bs-panel title="内容">
+        <textarea type="text" ng-model="customer.mailing_address" label="正文" bs-form-control></textarea>
+      </div>
+
+      <div bs-panel class="form-actions">
+        <div >
+          <button class="btn btn-primary">
+            发送
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+

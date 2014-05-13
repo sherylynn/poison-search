@@ -1,0 +1,209 @@
+<div content-for="title">
+  <span>登录</span>
+</div>
+
+
+<div class="scrollable">
+ <div class="scrollable-content">
+
+   <div class="section container-fluid">
+
+     <ul class="nav nav-tabs">
+       <li><a href="#Tab1" toggle="on" parent-active-class="active">注册</a></li>
+       <li><a href="#Tab2" toggle="on" parent-active-class="active">登录</a></li>
+     </ul>
+
+     <div class="tab-content">
+       <div class="tab-pane"
+            toggleable
+            active-class="active"
+            default="active"
+            id="Tab1"
+            exclusion-group="myTabs">
+
+         <h3 class="page-header">注册</h3>
+         <!--a href="#sign_up" class="btn btn-default" toggle="on">注册</a>
+         <a href="#login" class="btn btn-default" toggle="on">登录</a>
+         <a href="#error" class="btn btn-default" toggle="on">错误</a>
+         <small ng-switch on="user.online">
+              <span ng-switch-when="true">
+                <span class="label label-success">ONLINE</span>
+              </span>
+              <span ng-switch-default>
+                <span class="label label-default"><i>OFFLINE</i></span>
+              </span>
+         </small-->
+         <form action="" id="">
+
+           <input
+                   bs-form-control
+
+                   type="text"
+                   ng-model="invoice.customer"
+                   label="用户名"
+                   label-class="col-xs-3 col-sm-2 col-lg-1"
+                   class="col-xs-9 col-sm-10 col-lg-11"
+                   placeholder="输入您想取的用户名"
+                   />
+           <input
+                   bs-form-control
+
+                   type="password"
+                   ng-model="invoice.password"
+                   label="密码"
+                   label-class="col-xs-3 col-sm-2 col-lg-1"
+                   class="col-xs-9 col-sm-10 col-lg-11"
+                   placeholder="输入密码"
+                   />
+           <input
+                   bs-form-control
+
+                   type="text"
+                   ng-model="invoice.invitation"
+                   label="邀请码"
+                   label-class="col-xs-3 col-sm-2 col-lg-1"
+                   class="col-xs-9 col-sm-10 col-lg-11"
+                   placeholder="输入邀请码"
+                   />
+
+
+
+
+
+
+
+
+           <div bs-panel title="提醒" >
+             <h3 class="fa fa-border">
+               要注册为管理员必须输入邀请码,你可以向系统维护人员索要邀请码,不填写可以注册为访客
+             </h3>
+           </div>
+
+           <div bs-panel class="form-actions">
+             <!--div content-for="navbarAction" duplicate-->
+             <div >
+               <!--这里控制界面提示,绑定ngclick来提交内容与数据-->
+               <a href="#sign_up_after" class="btn btn-primary" toggle="on">注册</a>
+             </div>
+           </div>
+
+
+         </form>
+       </div>
+
+       <div class="tab-pane"
+            toggleable
+            active-class="active"
+            id="Tab2"
+            exclusion-group="myTabs">
+         <h3 class="page-header">登录</h3>
+         <form action="" id="">
+
+           <input
+                   bs-form-control
+
+                   type="text"
+                   ng-model="invoice.customer"
+                   label="用户名"
+                   label-class="col-xs-3 col-sm-2 col-lg-1"
+                   class="col-xs-9 col-sm-10 col-lg-11"
+                   placeholder="输入您想取的用户名"
+                   />
+           <input
+                   bs-form-control
+
+                   type="password"
+                   ng-model="invoice.password"
+                   label="密码"
+                   label-class="col-xs-3 col-sm-2 col-lg-1"
+                   class="col-xs-9 col-sm-10 col-lg-11"
+                   placeholder="输入密码"
+                   />
+
+
+
+           <div bs-panel title="提醒">
+             <h3 class="fa fa-border">
+               访客权限仅可以对毒物进行检索,在论坛进行反馈交流,管理员权限可以对毒物进行新建,修改,删除等操作
+             </h3>
+           </div>
+
+           <div bs-panel class="form-actions">
+             <!--div content-for="navbarAction" duplicate-->
+             <div >
+               <a href="#login" class="btn btn-primary" toggle="on">登录</a>
+             </div>
+           </div>
+         </form>
+       </div>
+
+     </div>
+
+     <div class="btn-group justified nav-tabs">
+       <a class="btn btn-default"
+          href="#Tab1"
+          toggle="on"
+          active-class="active">注册界面
+       </a>
+
+       <a class="btn btn-default"
+          href="#Tab2"
+          toggle="on"
+          active-class="active">登录界面
+       </a>
+
+
+
+     </div>
+
+   </div>
+
+ </div>
+</div>
+
+<div overlay="sign_up" default="active">
+  <h1 class="overlay-title">注册</h1>
+  <p>
+    如果您需要增删毒物或者修改毒物信息,您需要注册一个帐号,如果您已经有帐号,可以直接登录系统
+  </p>
+  <p toggle="off" bubble target="sign_up">
+    <span class="btn btn-primary">好的</span>
+    <span class="btn btn-default">关闭</span>
+  </p>  
+</div>
+
+<div overlay="sign_up_after">
+  <h1 class="overlay-title">恭喜</h1>
+  <p>
+    恭喜完成注册,接下来请您登录使用系统
+  </p>
+  <p toggle="off" bubble target="sign_up_after" >
+    <a href="#Tab2" toggle="on" class="btn btn-primary">好的</a>
+    <!--span class="btn btn-primary">好的</span-->
+    <span class="btn btn-default">关闭</span>
+  </p>
+</div>
+
+<div overlay="login">
+  <h1 class="overlay-title">登录</h1>
+  <p>
+    欢迎登录系统,接下来您可以搜索所需的毒物信息
+  </p>
+  <p toggle="off" bubble target="login">
+    <a href="#/search" ng-click="toggle('rightSidebar', 'off')" class="btn btn-primary">好的</a>
+
+    <!--span class="btn btn-primary">好的</span-->
+    <span class="btn btn-default">关闭</span>
+  </p>
+</div>
+
+<div overlay="error" >
+  <h1 class="overlay-title">错误</h1>
+  <p>
+    您使用了错误的帐号或密码,请重新确认
+  </p>
+  <p toggle="off" bubble target="error">
+    <span class="btn btn-primary">好的</span>
+    <span class="btn btn-default">关闭</span>
+  </p>
+</div>

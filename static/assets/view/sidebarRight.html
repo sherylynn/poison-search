@@ -1,0 +1,28 @@
+<div class="scrollable">
+  <div class="scrollable-content">
+    <!--div class="list-group" toggle="off" bubble target="rightSidebar"-->
+    <div class="list-group" >
+    <a class="list-group-item" href="#/search" ng-click="toggle('rightSidebar', 'off')" >详细搜索 <i class="fa fa-chevron-left pull-left"></i></a>
+    <input type="search" ng-model="search.keyword" class="form-control app-search" placeholder="搜索关键词..." />
+
+    <a class="list-group-item media" href='#/detail/{{poison["中文通用名"]}}' ng-click="search.get_point(poison)" ng-repeat="poison in poisons | filter:search.keyword"><!--如果低版本IE不支持,使用嵌套的函数,绑定为search.point,直接在详细中显示-->
+    <!--a class="list-group-item media" href='#/detail/{{poisons.indexOf(poison)}}'  ng-repeat="poison in poisons | filter:search.keyword"-->
+      <div class="pull-left">
+        <i class="fa fa-gear"></i>
+      </div>
+      <div class="media-body">
+          <h3 class="media-heading">
+            {{poison["中文通用名"]}}
+          </h3>
+      </div>
+      <h5>
+        {{poison["一、理化性质"]["溶解性"]}}
+      </h5>
+    </a>
+
+
+
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,105 @@
+<div content-for="title">
+  <span>搜索</span>
+</div>
+
+
+<div class="scrollable">
+ <div class="scrollable-content section">
+   
+   <form action="" id="">
+
+     <div bs-panel title="详细搜索">
+
+       <input
+        bs-form-control
+
+        type="text"
+        ng-model="search.keyword"
+        label="全文检索"
+        label-class="col-xs-3 col-sm-2 col-lg-1"
+        class="col-xs-9 col-sm-10 col-lg-11"
+        placeholder="输入主要关键词"
+       />
+
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search.color"
+           label="颜色"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="白、黑、红、黄、灰、蓝、绿、棕、无色"
+           />
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search.reason"
+           label="常见原因"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="苦杏仁、假酒、四季豆、鲜黄花菜、腌制食品、野生芹、青皮红肉鱼"
+           />
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search.smell"
+           label="气味"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="刺激性（硫醇）气味、芳香气味、苦杏仁气味、鼠臭气味、蒜臭气味、味苦、味咸、无臭、无味"
+           />
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model='search["临床症状"]'
+           label="临床症状"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="输入主要关键词"
+           />
+
+
+       <switch
+        bs-form-control
+        ng-change="switchChanged()"
+        ng-model="invoice.payed"
+        ng-click="switchClicked()"
+        label="半固体"
+        label-class="col-xs-3 col-sm-2 col-lg-1"
+        class="col-xs-9 col-sm-10 col-lg-11" 
+        >
+        </switch>
+       <switch
+        bs-form-control
+        ng-change="switchChanged()"
+        ng-model="invoice.payed"
+        ng-click="switchClicked()"
+        label="固体"
+        label-class="col-xs-3 col-sm-2 col-lg-1"
+        class="col-xs-9 col-sm-10 col-lg-11"
+        >
+        </switch>
+       <switch
+           bs-form-control
+           ng-change="switchChanged()"
+           ng-model="invoice.payed"
+           ng-click="switchClicked()"
+           label="液体"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           >
+       </switch>
+
+
+       
+
+     </div>
+
+   </form>
+
+ </div>
+</div>
