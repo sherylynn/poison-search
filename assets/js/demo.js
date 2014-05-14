@@ -38,13 +38,17 @@ app.service('analytics', [
   }
 ]);
 
+
+
 app.service('MDpoison', [
     '$resource', function($resource) {
-        return $resource('assets/md/:poison_name.md', {}, {
-            query: {method:'GET', params:{poison_name:'毒鼠强'}, isArray:true}
+        return $resource('assets/md/:md_name.md', {}, {
+            query: {method:'GET', params:{md_name:'毒鼠强'}, isArray:false}
         });
     }
 ]);
+
+
 
 app.service('Apoison', [
   '$resource', function($resource) {
@@ -106,7 +110,7 @@ app.directive( "carouselExampleItem", function($rootScope, $swipe){
     }
 });
 
-app.controller('MainController', function($rootScope, $scope, $routeParams, Apoison, analytics){
+app.controller('MainController', function($rootScope, $scope, $routeParams, Apoison, MDpoison, analytics){
 
   $rootScope.$on("$routeChangeStart", function(){
     $rootScope.loading = true;
@@ -134,6 +138,9 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
     //keyword:"马"
   };
   $scope.search_page={
+      fuck:function(){
+        console.log(MDpoison.query());
+      },
       point:0,
       get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
           this.point=_a;
@@ -141,6 +148,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
       }
   };
   $scope.poisons=Apoison.query();
+  $scope.MDpoison=MDpoison.query();
   //$scope.test="<img src='http://d.hiphotos.baidu.com/image/pic/item/30adcbef76094b36dfd52ee7a1cc7cd98d109d70.jpg'>";
   //上面的结果是直接显示了标点,而不是图片
   $scope.character=["一、理化性质","二、快速检测参考方法"];
