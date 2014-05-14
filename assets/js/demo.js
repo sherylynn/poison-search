@@ -38,14 +38,21 @@ app.service('analytics', [
   }
 ]);
 
-app.service('Apoison', [
+app.service('MDpoison', [
     '$resource', function($resource) {
-        return $resource('poisons/:poison_name.json', {}, {
-            query: {method:'GET', params:{poison_name:'poisons'}, isArray:true}
+        return $resource('assets/md/:poison_name.md', {}, {
+            query: {method:'GET', params:{poison_name:'毒鼠强'}, isArray:true}
         });
     }
 ]);
 
+app.service('Apoison', [
+  '$resource', function($resource) {
+    return $resource('poisons/:poison_name.json', {}, {
+      query: {method:'GET', params:{poison_name:'poisons'}, isArray:true}
+    });
+  }
+]);
 
 app.directive( "carouselExampleItem", function($rootScope, $swipe){
   return function(scope, element, attrs){

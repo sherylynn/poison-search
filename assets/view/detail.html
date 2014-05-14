@@ -1,6 +1,6 @@
 
 <div content-for="title">
-  <span>{{search.point["中文通用名"]}}</span>
+  <span>{{search_page.point["中文通用名"]}}</span>
 </div>
   
 <div class="scrollable">
@@ -20,7 +20,7 @@
             <div class="list-group">
               <div class="list-group-item" ng-repeat="phy in phys">
                 <h3>{{phy}}<br/>
-                  <h5>{{search.point["一、理化性质"][phy]}}</h5>
+                  <h5>{{search_page.point["一、理化性质"][phy]}}</h5>
                 </h3>
               </div>
             </div>
@@ -39,7 +39,7 @@
             <div class="list-group">
               <div class="list-group-item" ng-repeat="way in ways">
                 <h3>{{way}}<br/>
-                  <h5>{{search.point["二、快速检测参考方法"][way]}}</h5>
+                  <h5>{{search_page.point["二、快速检测参考方法"][way]}}</h5>
                 </h3>
               </div>
             </div>
@@ -58,7 +58,7 @@
             <div class="list-group">
               <div class="list-group-item" ng-repeat="way in ways">
                 <h3>{{way}}<br/>
-                  <h5>{{search.point["二、快速检测参考方法"][way]}}</h5>
+                  <h5>{{search_page.point["二、快速检测参考方法"][way]}}</h5>
                 </h3>
               </div>
             </div>
@@ -76,7 +76,7 @@
             <div class="list-group">
               <div class="list-group-item" ng-repeat="about in abouts">
                 <h3>{{about}}<br/>
-                  <h5>{{search.point["四、相关信息"][about]}}</h5>
+                  <h5>{{search_page.point["四、相关信息"][about]}}</h5>
                 </h3>
               </div>
             </div>
@@ -92,7 +92,7 @@
         <div id="五、典型案例" toggleable active-class="in" exclusion-group="accordion1" class="panel-collapse collapse">
           <div class="panel-body">
             <div class="list-group">
-              <div class="list-group-item" ng-repeat='thing in search.point["五、典型案例"]'>
+              <div class="list-group-item" ng-repeat='thing in search_page.point["五、典型案例"]'>
                 <h3>{{thing}}<br/>
                   <!--h5>{{search.point["五、典型案例"][thing]}}</h5-->
                 </h3>
