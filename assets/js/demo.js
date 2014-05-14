@@ -13,7 +13,10 @@ var app = angular.module('MobileAngularUiExamples', [
   "ngRoute",
   "ngTouch",
   "ngResource",
-  "mobile-angular-ui"
+  "mobile-angular-ui",
+  "ngSanitize",
+  "wiz.markdown",
+  "btford.markdown"
 ]);
 
 app.config(function($routeProvider, $locationProvider) {
@@ -118,6 +121,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
       {title:"疑难解答板块"}
   ];
   $scope.invoice = {payed: true};
+  $scope.markdown="#fuck";
 
 
   $scope.search={
