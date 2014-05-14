@@ -53,7 +53,7 @@ app.service('MDpoison', [
 app.service('Apoison', [
   '$resource', function($resource) {
     return $resource('poisons/:poison_name.json', {}, {
-      query: {method:'GET', params:{poison_name:'poisons_all'}, isArray:true}
+      query: {method:'GET', params:{poison_name:'poisons'}, isArray:true}
     });
   }
 ]);
