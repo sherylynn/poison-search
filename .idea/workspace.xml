@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8687b3d0-5e55-4f91-a6a8-7d7f64d58eda" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/demo.js" afterPath="$PROJECT_DIR$/assets/js/demo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poisons/poisons.json" afterPath="$PROJECT_DIR$/poisons/poisons.json" />
     </list>
     <ignored path="poison-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,7 +58,7 @@
       <file leaf-file-name="sidebarRight.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/view/sidebarRight.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="646">
+            <state vertical-scroll-proportion="-1.8928572" vertical-offset="61" max-vertical-offset="646">
               <caret line="6" column="131" selection-start-line="6" selection-start-column="131" selection-end-line="6" selection-end-column="131" />
               <folding />
             </state>
@@ -79,8 +78,8 @@
       <file leaf-file-name="demo.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55791193" vertical-offset="703" max-vertical-offset="3344">
-              <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.27895597" vertical-offset="0" max-vertical-offset="3344">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -163,9 +162,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
-    <option name="y" value="47" />
-    <option name="width" value="1313" />
+    <option name="x" value="49" />
+    <option name="y" value="22" />
+    <option name="width" value="1317" />
     <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -347,14 +346,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="47" width="1313" height="746" extended-state="6" />
+    <frame x="49" y="22" width="1317" height="746" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15689261" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1564161" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3988183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -660,23 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/duwu/毒鼠强/@1外观.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/sidebarRight.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="646">
-          <caret line="6" column="131" selection-start-line="6" selection-start-column="131" selection-end-line="6" selection-end-column="131" />
           <folding />
         </state>
       </provider>
@@ -697,18 +683,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poisons/poisons_all.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.296296" vertical-offset="15519" max-vertical-offset="71953">
-          <caret line="829" column="13" selection-start-line="829" selection-start-column="13" selection-end-line="829" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="513">
           <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poisons/poisons_all.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.296296" vertical-offset="15519" max-vertical-offset="71953">
+          <caret line="829" column="13" selection-start-line="829" selection-start-column="13" selection-end-line="829" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -721,10 +707,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/duwu/毒鼠强/@1外观.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/sidebarRight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8928572" vertical-offset="61" max-vertical-offset="646">
+          <caret line="6" column="131" selection-start-line="6" selection-start-column="131" selection-end-line="6" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55791193" vertical-offset="703" max-vertical-offset="3344">
-          <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.27895597" vertical-offset="0" max-vertical-offset="3344">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
           <folding />
         </state>
       </provider>

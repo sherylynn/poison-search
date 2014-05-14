@@ -7,7 +7,7 @@ Array.prototype.indexOf = function (vItem) {
     return -1;
 };
 
-
+//
 
 var app = angular.module('MobileAngularUiExamples', [
   "ngRoute",
