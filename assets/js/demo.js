@@ -121,11 +121,12 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
       {title:"疑难解答板块"}
   ];
   $scope.invoice = {payed: true};
-  $scope.markdown="#fuck";
-
+  $scope.markdown="#你好";
 
   $scope.search={
-      name:0,
+    //keyword:"马"
+  };
+  $scope.search_page={
       point:0,
       get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
           this.point=_a;
