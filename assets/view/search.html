@@ -10,22 +10,23 @@
 
      <div bs-panel title="详细搜索">
 
-       <input
-        bs-form-control
-
-        type="text"
-        ng-model="search.keyword"
-        label="全文检索"
-        label-class="col-xs-3 col-sm-2 col-lg-1"
-        class="col-xs-9 col-sm-10 col-lg-11"
-        placeholder="输入主要关键词"
-       />
 
        <input
            bs-form-control
 
            type="text"
-           ng-model="search.color"
+           ng-model="search['中文通用名']"
+           label="中文通用名"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="输入中文通用名"
+           />
+
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search['颜色']"
            label="颜色"
            label-class="col-xs-3 col-sm-2 col-lg-1"
            class="col-xs-9 col-sm-10 col-lg-11"
@@ -35,7 +36,7 @@
            bs-form-control
 
            type="text"
-           ng-model="search.reason"
+           ng-model="search['常见原因']"
            label="常见原因"
            label-class="col-xs-3 col-sm-2 col-lg-1"
            class="col-xs-9 col-sm-10 col-lg-11"
@@ -45,7 +46,7 @@
            bs-form-control
 
            type="text"
-           ng-model="search.smell"
+           ng-model="search['气味']"
            label="气味"
            label-class="col-xs-3 col-sm-2 col-lg-1"
            class="col-xs-9 col-sm-10 col-lg-11"
@@ -55,44 +56,36 @@
            bs-form-control
 
            type="text"
-           ng-model='search["临床症状"]'
-           label="临床症状"
+           ng-model="search['形态']"
+           label="形态"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="固体、半固体、液体"
+           />
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search['临床表现']"
+           label="临床表现"
+           label-class="col-xs-3 col-sm-2 col-lg-1"
+           class="col-xs-9 col-sm-10 col-lg-11"
+           placeholder="输入主要关键词"
+           />
+       <input
+           bs-form-control
+
+           type="text"
+           ng-model="search['全文检索']"
+           label="全文检索"
            label-class="col-xs-3 col-sm-2 col-lg-1"
            class="col-xs-9 col-sm-10 col-lg-11"
            placeholder="输入主要关键词"
            />
 
 
-       <switch
-        bs-form-control
-        ng-change="switchChanged()"
-        ng-model="invoice.payed"
-        ng-click="switchClicked()"
-        label="半固体"
-        label-class="col-xs-3 col-sm-2 col-lg-1"
-        class="col-xs-9 col-sm-10 col-lg-11" 
-        >
-        </switch>
-       <switch
-        bs-form-control
-        ng-change="switchChanged()"
-        ng-model="invoice.payed"
-        ng-click="switchClicked()"
-        label="固体"
-        label-class="col-xs-3 col-sm-2 col-lg-1"
-        class="col-xs-9 col-sm-10 col-lg-11"
-        >
-        </switch>
-       <switch
-           bs-form-control
-           ng-change="switchChanged()"
-           ng-model="invoice.payed"
-           ng-click="switchClicked()"
-           label="液体"
-           label-class="col-xs-3 col-sm-2 col-lg-1"
-           class="col-xs-9 col-sm-10 col-lg-11"
-           >
-       </switch>
+
+
 
 
        

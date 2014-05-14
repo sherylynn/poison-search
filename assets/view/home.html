@@ -1,4 +1,4 @@
-<div class="scrollable">  
+<div class="scrollable" xmlns="http://www.w3.org/1999/html">
   <div class="scrollable-content">
 
     <div class="list-group">
@@ -11,7 +11,8 @@
       </div>
       <!--wiz-markdown content="markdown"></wiz-markdown-->
       <!--上面的这个模块也可以使用-->
-      <input type="search" ng-model="markdown" class="list-group-item" placeholder="搜索话题..." />
+      <textarea type="text" ng-model="markdown" label="Address" bs-form-control></textarea>
+      <textarea ng-model="markdown" class="list-group-item" placeholder="搜索话题..." /></textarea>
       <a class="list-group-item" ng-click="toggle('mainSidebar')" href="#/">左边是导航栏,您能在这里找到您需要的功能 <i class="fa fa-angle-double-left pull-left"></i></a>
       <a class="list-group-item" ng-click="toggle('rightSidebar')" href="#/">右边是毒物列表,您搜索的毒物都呈现在这里 <i class="fa fa-angle-double-right pull-right"></i></a>
 

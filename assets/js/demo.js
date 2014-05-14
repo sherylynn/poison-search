@@ -42,12 +42,11 @@ app.service('analytics', [
 
 app.service('MDpoison', [
     '$resource', function($resource) {
-        return $resource('assets/md/:md_name.md', {}, {
-            query: {method:'GET', params:{md_name:'毒鼠强'}, isArray:false}
+        return $resource('assets/md_json/:md_name.json', {}, {
+            query: {method:'GET', params:{md_name:'md_all'}, isArray:true}
         });
     }
 ]);
-
 
 
 app.service('Apoison', [
@@ -131,24 +130,25 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
       {title:"技术交流板块"},
       {title:"疑难解答板块"}
   ];
-  $scope.invoice = {payed: true};
+
   $scope.markdown="#你好";
 
   $scope.search={
-    //keyword:"马"
+
   };
   $scope.search_page={
       fuck:function(){
         console.log(MDpoison.query());
+        console.log($scope.markdown);
       },
       point:0,
       get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
           this.point=_a;
-          console.log($routeParams.poison_name);//可以传递,但是会迟一个才传出,应该和点击次序有关,搞不懂了,不过确实有两个方法,一个应该更适合
+          //console.log($routeParams.poison_name);//可以传递,但是会迟一个才传出,应该和点击次序有关,搞不懂了,不过确实有两个方法,一个应该更适合
       }
   };
   $scope.poisons=Apoison.query();
-  $scope.MDpoison=MDpoison.query();
+  $scope.MDpoisons=MDpoison.query();
   //$scope.test="<img src='http://d.hiphotos.baidu.com/image/pic/item/30adcbef76094b36dfd52ee7a1cc7cd98d109d70.jpg'>";
   //上面的结果是直接显示了标点,而不是图片
   $scope.character=["一、理化性质","二、快速检测参考方法"];
