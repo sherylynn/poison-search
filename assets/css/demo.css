@@ -97,6 +97,6 @@ h1 {
 }
 
 img {
-  width: 10px;
-  height: 10px;
+  max-width: 45%;
+  max-height: 45%;
 }
