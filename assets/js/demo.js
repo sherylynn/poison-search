@@ -143,17 +143,22 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
   ];
 
   $scope.markdown="#你好";
-  $scope.MD_Id=$routeParams.MDpoison_name;//在一开始的界面定义无用????不分controller就没有办法用序列号
+  $scope.MD_Id=$routeParams.MDpoison_name;//在一开始的界面定义无用????不分controller就没有办法用序列号.fuckkkkkkkk
 
   $scope.search={
     "临床表现":""
   };
+  var db_test = new PouchDB('http://localhost:18080/db/test');
   $scope.search_page={
     test:function(){
       console.log(MDpoison.query());
       console.log($scope.markdown);
-      console.log($routeParams.MDpoison_name)
-      console.log($scope.MD_Id);
+      console.log($routeParams.MDpoison_name);
+      db_test.put({
+        _id: 'dave@gmail.com',
+        name: 'David',
+        age: 66
+      });
     },
 
     point:0,
