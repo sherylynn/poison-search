@@ -137,15 +137,28 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
     "临床表现":""
   };
   $scope.search_page={
-      test:function(){
-        console.log(MDpoison.query());
-        console.log($scope.markdown);
-      },
-      point:0,
-      get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
-          this.point=_a;
-          //console.log($routeParams.poison_name);//可以传递,但是会迟一个才传出,应该和点击次序有关,搞不懂了,不过确实有两个方法,一个应该更适合
-      }
+    test:function(){
+      console.log(MDpoison.query());
+      console.log($scope.markdown);
+    },
+    point:0,
+    get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
+        this.point=_a;
+        //console.log($routeParams.poison_name);//可以传递,但是会迟一个才传出,应该和点击次序有关,搞不懂了,不过确实有两个方法,一个应该更适合
+    }
+  };
+  $scope.test=function(_keyword,_string){
+    //{{test(search["临床表现"],MDpoison["临床表现"])}}
+    this._keyword=_keyword;
+    this._string=_string;
+    if(this._keyword) {
+      this._final = this._string.replace(RegExp(this._keyword, 'g'), '<strong>' + this._keyword + '</strong>');
+    }else{
+      this._final = this._string;
+    }//失败,提交的是字符
+    return this._final;
+
+
   };
   $scope.poisons=Apoison.query();
   $scope.MDpoisons=MDpoison.query();
