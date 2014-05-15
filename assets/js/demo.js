@@ -137,7 +137,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
 
   };
   $scope.search_page={
-      fuck:function(){
+      test:function(){
         console.log(MDpoison.query());
         console.log($scope.markdown);
       },
