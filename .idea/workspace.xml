@@ -2,7 +2,323 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8687b3d0-5e55-4f91-a6a8-7d7f64d58eda" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/3-硝基丙酸/#1免试剂离子色谱法测定变质甘蔗中3_硝基丙酸.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/3-硝基丙酸/#2甘蔗及甘蔗汁中3_硝基丙酸的薄层色谱测定法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/3-硝基丙酸/#3固相萃取_超高效液相色谱串联质谱法检测甘蔗中3_硝基丙酸的方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/3-硝基丙酸/#4霉变甘蔗中毒致死1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/三唑磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/三唑磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/三唑磷/#3一起三唑磷引起的食物中毒调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/丙溴磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/丙溴磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/久效磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/久效磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/久效磷/#3重症久效磷中毒伴横纹肌溶解症1例的急救护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/久效磷/#4久效磷中毒致呼吸停止13天1例护理体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乐果/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乐果/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乐果/#3乐果中毒合并低钾血症1例报道.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乐果/#4乐果中毒合并腮腺炎的治疗体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙拌磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙拌磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙酰甲胺磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙酰甲胺磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/乙酰甲胺磷/#3一起乙酰甲胺磷所致食物中毒的报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/亚硝酸钠/#1 GB 500933-2010 食品安全国家标准 食品中亚硝酸盐与硝酸盐的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/亚硝酸钠/#2 1起因误食亚硝酸盐引起的急性食物中毒事件的调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/亚胺硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/亚胺硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/仲丁威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/伏杀硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/伏杀硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#1儿童克百威中毒2例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#2急性克百威中毒43例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/克百威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/大麻油/#1大麻油的3种除酚分析对比试验.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/大麻油/#2气相色谱_质谱联用快速筛查尿样中麻醉剂类药物.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/大麻油/#3 20040818_gbt5009.37-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/大麻油/#4高效液相色谱检测大麻中_9_四氢大麻酚的分析方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/对硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/对硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/对硫磷/#3口服对硫磷中毒死亡1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/对硫磷/#4对硫磷中毒致癫痫样抽搐1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/对硫磷/#5一起对硫磷所致家庭食物中毒调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/巴豆油/#1巴豆油化学成分的GC_MS分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/巴豆油/#2高效液相色谱法测定巴豆油中佛波醇.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/巴豆油/#3反相高效液相色谱法测定巴豆油中游离型和结合型亚油酸的含量.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#1宝山区1起异丙威中毒事故引起的思考.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/异丙威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/抗蚜威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#1儿童群体性皮肤拟除虫菊酯类农药中毒93例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#23  GBT 5009.162-2008 动物性食品中有机氯农药和拟除虫菊酯农药多组分残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#24GBT 5009.146-2008 植物性食品中有机氯和拟除虫菊酯类农药多种残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#2拟除虫菊酯类杀虫药急性中毒56例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#3拟除虫菊酯类农药急性中毒11例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/拟除虫菊酯类农药/#4 高效液相色谱法测定尿中拟除虫菊酯及其代谢产物的方法研究_孟潇.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌敌畏/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌敌畏/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌敌畏/#3急性敌敌畏中毒并出血坏死性胰腺炎_肠坏死1例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌敌畏/#4敌敌畏经皮肤吸收中毒致大疱性皮炎2例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌鼠/#1中毒人员呕吐物敌鼠的快速检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌鼠/#2敌鼠钠的快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌鼠/#3中毒样品中敌鼠钠盐气相色谱_质谱联用法分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌鼠/#4一例重度敌鼠钠中毒引起全身大面积皮下瘀斑的护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/敌鼠/#5敌鼠中毒引起全身多器官出血1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/有机磷农药/#1 GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/有机磷农药/#2 GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/杀扑磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/杀扑磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/杀螟硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/杀螟硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/桐油/#1高效液相色谱法测定掺_混_食用植物油中的桐油.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/桐油/#2食用植物油中掺杂蓖麻油_桐油的薄层色谱检出法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/桐油/#3紫外分光光度法快速测定引起食物中毒的食用菜籽油中桐油的掺杂.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/桐油/#4食用植物油中桐油蓖麻油的确证检验方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/残杀威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒死蜱/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒死蜱/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒死蜱/#3毒死蜱中毒36例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒死蜱/#4一起毒死蜱食物中毒的调查与分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒芹/#1 急性毒芹中毒11例报告_王原林.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒芹/#2 毒芹中毒1例_金维艳.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒鼠强/#1变色酸法快速检测毒鼠强.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒鼠强/#2毒鼠强的快速鉴定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒鼠强/#3毒鼠强快速化学检测方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒鼠强/#4应用快速筛选检测方法进行毒鼠强测定的探讨.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/毒鼠强/#5气质联机快速检测确证毒鼠强食物中毒.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#1化学反应快速鉴定氟乙酰胺鼠药中毒.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#2氟乙酰胺急性中毒的快速检验.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#3GC_MS快速检测中毒样品中氟乙酰胺.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#4氟乙酰胺中毒后多发性脑及脏器出血死亡1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#5氟乙酰胺鼠药误点眼致全身中毒1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟乙酰胺/#6 38例小儿氟乙酰胺中毒引发全身阵挛性抽搐的抢救体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟氯氰菊酯/#4四川地震灾区中因杀虫药使用不当引起接触性皮炎及中毒事件的调查和处理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氟氯氰菊酯/#5急性三氟氯氰菊酯中毒1例救治体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氧化乐果/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氧化乐果/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氧化乐果/#3氧化乐果中毒致多种并发症1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氧化乐果/#4急性氧化乐果中毒致呼衰26例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#1应用植物酯酶固化酶检测有机磷和氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#2用手持式农药速测仪酶法现场测定蔬菜中有机磷及氨基甲酸酯农药残毒.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氨基甲酸酯农药/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯唑磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯唑磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氟氰菊酯/#10 急性高效氯氟氰菊酯农药中毒的诊治体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氟氰菊酯/#11 氯氟氰菊酯急性中毒1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氟氰菊酯/#12氯氟氰菊酯混合农药中毒致胆碱酯酶活性降低1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氟氰菊酯/#8食品中高效氯氟氰菊酯的液相色谱快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氟氰菊酯/#9大剂量氯氟氰菊酯农药中毒的抢救体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氰菊酯/#13氯氰菊酯中毒1例救治体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氰菊酯/#14高效氯氰菊酯中毒1例救治体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氰菊酯/#15急性氯氰菊酯中毒17例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯氰菊酯/#16甲基托布津_甲胺磷及氯氰菊酯同时中毒15例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氯菊酯/#1 高效液相色谱法测定避蚊衣中氯菊酯的含量_周霁.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化物/#1污染食品中氰化物的快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化物/#3对1起氰化物中毒的快速检测及抢救的报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化物/#6 顶空气相色谱测定白酒中氰化物方法研究_阎冠洲.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化物/#7 试纸条快速检测法测定酒中氰化物的验证试验.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化钠/#1污染食品中氰化物的快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰化钾/#1污染食品中氰化物的快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰戊菊酯/#1 高效液相色谱法测定氰戊菊酯的含量_项顺纪.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰戊菊酯/#17鸡肝酯酶快速检测氰戊菊酯农药的试验研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰戊菊酯/#18 急性氰戊菊酯中毒42例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰戊菊酯/#19 以氰戊菊酯为主的混合农药中毒3例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/氰戊菊酯/#20一起氰戊菊酯引起的食物中毒.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#1 20040818_gbt5009.17-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#2微波消解_氢化物发生原子吸收光谱法测定食物中的汞.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#3氰_砷_汞速测法简介.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#4冷蒸气原子荧光光谱法测定稻田水中汞.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#5高压消解_原子荧光光谱法测定食物中的汞.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#6 20040818_gbt5009.17-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#7误服氧化汞致急性汞中毒1例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/汞/#8药源性砷_汞中毒2例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#10重症河豚中毒误诊10例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#11一起集体河豚毒素食物中毒抢救体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#12河豚毒素中毒引起迟发性脑病1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#13河豚毒素中毒所致的假性昏迷.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#1高效毛细管区带电泳测定河豚毒素.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#2河豚毒素的检验.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#3河豚毒素直接竞争ELISA检测方法的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#4利用固定化草酸氧化酶快速检测河豚毒素.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#5河豚毒素中和性单抗的制备_鉴定及TTX检测方法的建立.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#6间接竞争抑制性酶联免疫吸附试验测定豚毒鱼类中河豚毒素的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#7离子色谱法定量检测酒曲发酵液中的河豚毒素.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#8GBT 23217-2008 水产品中河豚毒素的测定 液相色谱-荧光检测法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/河豚鱼毒素/#9食用织纹螺引起的河豚毒素中毒调查分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/溴氰菊酯/#1 高效液相色谱法测定地表水及饮用水中的溴氰菊酯_吴卫东.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/溴氰菊酯/#21急性溴氰菊酯中毒八例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/溴氰菊酯/#22误服溴氰菊酯引起中毒5例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#1灭多威中毒死亡1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#2一起灭多威杀虫剂引起中毒事件的报道.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭多威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭线磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/灭线磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲基对硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲基对硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲基对硫磷/#3一起因食用韭菜引起的甲基对硫磷中毒调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲基毒死蜱/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲基毒死蜱/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲拌磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲拌磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲拌磷/#3一起农药甲拌磷致食物中毒的调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲拌磷/#4甲拌磷引起中毒死亡的调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲氰菊酯/#6甲氰菊酯急性中毒13例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#3 1起甲胺磷引起的食物中毒调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#4一起甲胺磷污染食物所致中毒死亡事件的调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#5甲胺磷中毒所致精神障碍1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲胺磷/#6甲胺磷中毒致全身毛细血管渗漏综合征1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#1西维因急性中毒18例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲萘威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#1 白酒中甲醇快速测定法_变色酸法_任静波 (1).pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#2 激光拉曼光谱内标法直接测定甲醇浓度.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#3顶空气相色谱法同时测定水中甲醇及苯.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#4关于蒸馏酒及配制酒中甲醇分析方法的探讨.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#5  20040818_gbt5009.48-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/甲醇/#6一起甲醇中毒事件调查案例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/瘦肉精/#1 GBT5009.192-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/瘦肉精/#2一起误食_瘦肉精_致食物中毒的调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/瘦肉精/#3瘦肉精中毒抢救24例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#1分光光度法测定红虾中的百草枯.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#2蔬菜中百草枯的高效液相色谱测定法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#3GB 19308-2003 百草枯水剂.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#4液相色谱_串联质谱法快速测定植物源性食品中的百草枯.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#4高效液相色谱_质谱联用法测定百草枯.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#5SN 0340-1995 出口粮谷、蔬菜中百草枯残留量检验方法 紫外分光光度法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#6百草枯中毒_附4例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/百草枯/#7口服百草枯中毒死亡1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/皂甙/#1一起皂甙中毒的实验室鉴定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/皂甙/#2泡沫法检测豆角皂甙食物中毒的调查.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#1水产品中麻痹性贝类毒素_PSP_的快速检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#3细胞毒性试验测定麻痹性贝毒素的检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#4贝类毒素检测中两种筛选方法的比较研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#5贝类毒素监测的动物试验优化及替代方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#6角螺中毒3例临床报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#7织纹螺中毒37例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#8急性香螺中毒16例分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/石房蛤毒素/#9 石房蛤毒素酶联免疫吸附测定方法的研究_刘帅帅.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/砷/#1海产品中无机砷快速检测方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/砷/#2水产品中三价砷的快速检测方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/砷/#3GBT 23372-2009 食品中无机砷的测定 液相色谱 电感耦合等离子体质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/砷/#4GB1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/磷化锌/#1 2例磷化锌中毒患儿的抢救与护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/磷化锌/#2磷化锌重度中毒的抢救体会1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#1HPLC法测定全血中秋水仙碱.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#2UFLC_MS_MS法测定中毒患者血清中秋水仙碱.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#3碳糊电极阳极伏安法测定秋水仙碱.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#4中毒患者血清中秋水仙碱的快速检验.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#5SNT 2216-2008 进出口动物源性食品中秋水仙碱残留量的检测方法 液相色谱-质谱质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#6秋水仙碱重度中毒1例报道.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#7鲜黄花菜中毒36例急诊治疗体会.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/秋水仙碱/#8鲜黄花菜致秋水仙碱中毒2例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/组胺/#1 GBT5009.45-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/组胺/#2高效液相色谱_紫外检测法测定水产品中组胺的含量.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/组胺/#3一起食用鲐鱼引起组胺中毒调查分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/组胺/#4食用变质鲐鱼引起急性组胺中毒87例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/联苯菊酯/#7组合型血液净化治疗急性联苯菊酯中毒疗效观察.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#10 56例群体蓖麻子中毒的抢救及护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#11蓖麻子中毒所致谷丙转氨酶升高2例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#12一起小学生误食蓖麻子致中毒的调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#1蓖麻毒素和相思子毒素蛋白质芯片检测方法的建立.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#2检测食用植物油掺假的快速定性方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#3蓖麻毒素B链蛋白多克隆抗体的制备及胶体金免疫层析快速检测法的建立.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#4蓖麻毒素的间接酶联免疫快速检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#5双抗体夹心酶联免疫法检测不同样品中的蓖麻毒素.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#6食用植物油中掺杂蓖麻油_桐油的薄层色谱检出法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#7食用植物油中桐油蓖麻油的确证检验方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#8 5例误食蓖麻子中毒治疗.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/蓖麻油/#9蓖麻子中毒1例误诊分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#1速灭威农药生产性中毒24例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#3GBT 19648-2006 水果和蔬菜中500种农药及相关化学品残留骨=的测定气相色谱-质谱法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#4 20040823_gb5009.104-2003.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#5高效液相色谱_质谱法测定牛奶中6种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#6基质固相分散萃取_液相色谱法测定小麦中多种氨基甲酸酯农药残留的研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#7分散液相微萃取_液相色谱联用测定番茄中8种氨基甲酸酯农药残留.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/速灭威/#8在线柱后衍生_荧光检测_高效液相色谱法测定果蔬中残留氨基甲酸酯农药.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#1GBT 5009.42-2003 食盐卫生标准的分析方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#2食盐中钡的检测方法研究.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#3GBT 13025.12-2012 制盐工业通用试验方法 钡的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#4硝酸钡中毒的ICP_AES检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#5钡中毒事件相关样品中钡的检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/钡/#6急性氯化钡中毒34例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#10儿童铅中毒83例临床分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#1电感耦合等离子体质谱_ICP_MS_法测定_省略_物源食品中有害元素铅_砷_镉_.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#2ICP_MS测定食品模拟物中的铅_砷_镉_镍_钴_锌.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#3膨化食品中微量铅ID_ICP_MS检测.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#4微波消解_分光光度法快速检测水果中铅含量.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#5 GB 500912-2010 食品安全国家标准 食品中铅的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#6急性四乙基铅中毒的急救与护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#7以腹痛为主要表现的铅中毒1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#8 德化县82例产妇生活性铅中毒的调查分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铅/#9临沂市1990_2003年铅中毒病例资料分析.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#10隐匿式急性铊中毒误诊一例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#1铊中毒及其检验方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#2罕见的1例严重铊中毒情况介绍.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#3急性铊中毒致多发性神经病一例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#4四肢疼痛伴迟发性脑病的急性铊中毒1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#5他杀性铊中毒致多脏器功能衰竭1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#6铊中毒八例的神经精神表现.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#7铊中毒所致指甲糜烂一例报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#8铊中毒误诊为格林_巴利综合征.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/铊/#9一起食用_花炮盐_引起铊中毒的调查报告.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马拉硫磷/#1GBT 5009.207-2008 糙米中50种有机磷农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马拉硫磷/#2GBT 5009.218-2008 水果和蔬菜中多种农药残留量的测定.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马拉硫磷/#3 1例急性马拉硫磷中毒并发急性胰腺炎的护理.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#1发芽马铃薯中毒检验一例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#2马铃薯中龙葵素的提取方法.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#3高效液相色谱法测定马铃薯中_茄碱含量.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#4一起马铃薯龙葵素引起的食物中毒.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#5发芽马铃薯中毒引起的精神症状.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#6发芽马铃薯中毒致肠源性青紫症2例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#7食用发芽马铃薯中毒致房颤1例.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/PDF/马铃薯毒素/#8发芽马铃薯中毒合并皮疹19例报告.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/demo.js" afterPath="$PROJECT_DIR$/assets/js/demo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/home.html" afterPath="$PROJECT_DIR$/assets/view/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/sidebarRight.html" afterPath="$PROJECT_DIR$/assets/view/sidebarRight.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="poison-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +351,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/view/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3897436" vertical-offset="0" max-vertical-offset="585">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="513">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -68,8 +384,8 @@
       <file leaf-file-name="sidebarRight.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/view/sidebarRight.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="703">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="-12.214286" vertical-offset="0" max-vertical-offset="741">
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -88,8 +404,8 @@
       <file leaf-file-name="demo.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2693" max-vertical-offset="3591">
-              <caret line="150" column="47" selection-start-line="150" selection-start-column="47" selection-end-line="150" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2427" max-vertical-offset="3591">
+              <caret line="136" column="14" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -135,7 +451,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="@1外观.jpg" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="@1外观.jpg" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/duwu/毒鼠强/@1外观.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -187,15 +503,15 @@
         <option value="$PROJECT_DIR$/assets/view/search.html" />
         <option value="$PROJECT_DIR$/assets/view/carousel.html" />
         <option value="$PROJECT_DIR$/assets/css/demo.css" />
+        <option value="$PROJECT_DIR$/assets/view/home.html" />
         <option value="$PROJECT_DIR$/assets/js/demo.js" />
         <option value="$PROJECT_DIR$/assets/view/sidebarRight.html" />
-        <option value="$PROJECT_DIR$/assets/view/home.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="22" />
+    <option name="x" value="74" />
+    <option name="y" value="30" />
     <option name="width" value="1317" />
     <option name="height" value="746" />
   </component>
@@ -436,14 +752,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="22" width="1317" height="746" extended-state="6" />
-    <editor active="true" />
+    <frame x="74" y="30" width="1317" height="746" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1564161" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1564161" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3988183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -786,11 +1102,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/duwu/毒鼠强/@1外观.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/carousel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="513">
@@ -831,14 +1142,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="48.857143" vertical-offset="1406" max-vertical-offset="2166">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.107143" vertical-offset="1007" max-vertical-offset="1957">
@@ -847,28 +1150,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858" vertical-offset="0" max-vertical-offset="513">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2693" max-vertical-offset="3591">
-          <caret line="150" column="47" selection-start-line="150" selection-start-column="47" selection-end-line="150" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2427" max-vertical-offset="3591">
+          <caret line="136" column="14" selection-start-line="136" selection-start-column="14" selection-end-line="136" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/view/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="48.857143" vertical-offset="1406" max-vertical-offset="2166">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/sidebarRight.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="703">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.214286" vertical-offset="0" max-vertical-offset="741">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/view/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3897436" vertical-offset="0" max-vertical-offset="585">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/assets/duwu/毒鼠强/@1外观.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
