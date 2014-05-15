@@ -95,3 +95,8 @@ h1 {
   min-height: 50px;
   color: #007aff;
 }
+
+img {
+  width: 10px;
+  height: 10px;
+}
