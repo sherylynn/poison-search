@@ -6,7 +6,16 @@ Array.prototype.indexOf = function (vItem) {
     }
     return -1;
 };
-
+/*
+Array.prototype.indexOf_name = function (vItem) {
+  for (var i=0; i<this.length; i++) {
+    if (vItem == this[i]["中文通用名"]) {
+      return this[i];
+    }
+  }
+  return -1;//return 主页
+};
+*/
 //
 
 var app = angular.module('MobileAngularUiExamples', [
@@ -25,6 +34,8 @@ app.config(function($routeProvider, $locationProvider) {
   $routeProvider.when('/toggle',    {templateUrl: "assets/view/toggle.html"});
   $routeProvider.when('/tabs',      {templateUrl: "assets/view/tabs.html"});
   $routeProvider.when('/detail/:poison_name', {templateUrl: "assets/view/detail.html"});
+  //MDdetails
+  $routeProvider.when('/MDdetail/:MDpoison_name', {templateUrl: "assets/view/home.html"});
   $routeProvider.when('/login',   {templateUrl: "assets/view/login.html"});
   $routeProvider.when('/search',     {templateUrl: "assets/view/search.html"});
   $routeProvider.when('/carousel',  {templateUrl: "assets/view/carousel.html"});
@@ -132,6 +143,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
   ];
 
   $scope.markdown="#你好";
+  $scope.MD_Id=$routeParams.MDpoison_name;//在一开始的界面定义无用????不分controller就没有办法用序列号
 
   $scope.search={
     "临床表现":""
@@ -140,7 +152,10 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
     test:function(){
       console.log(MDpoison.query());
       console.log($scope.markdown);
+      console.log($routeParams.MDpoison_name)
+      console.log($scope.MD_Id);
     },
+
     point:0,
     get_point:function(_a){//方法二是讲数组直接用函数传递,如果数量多了还是不适合遍历的,但是ng-click的部分未解决
         this.point=_a;
