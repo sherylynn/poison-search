@@ -15,22 +15,22 @@
             {{MDpoison["中文通用名"]}}
           </h3>
       </div>
-      <p>
+      <div ng-switch on='search["临床表现"]'>
         <!--问题1是不能直接通过表达式输出标签.问题2是通过普通标签嵌套会造成换行,突然发现<p>中的<b>不会换行-->
-        <b ng-repeat='highlight in MDpoison["临床表现"].split(search["临床表现"])'>
+        <p ng-switch-when="">
+          {{MDpoison["临床表现"]}}
+        </p>
 
-          {{highlight}}
-          <b class="blue">
-            {{search["临床表现"]}}
+        <p ng-switch-default >
+          <b ng-repeat='highlight in MDpoison["临床表现"].split(search["临床表现"])'>
+            {{highlight}}
+            <b class="blue">
+              {{search["临床表现"]}}
+            </b>
           </b>
-        </b>
-      </p>
-
+        </p>
+      </div>
     </a>
-
-
-
-
     </div>
   </div>
 </div>

@@ -134,7 +134,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
   $scope.markdown="#你好";
 
   $scope.search={
-    "临床表现":"呕吐"
+    "临床表现":""
   };
   $scope.search_page={
     test:function(){
