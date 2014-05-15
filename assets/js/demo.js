@@ -148,7 +148,7 @@ app.controller('MainController', function($rootScope, $scope, $routeParams, Apoi
   $scope.search={
     "临床表现":""
   };
-  var db_test = new PouchDB('http://localhost:18080/db/test');
+  var db_test = new PouchDB('http://poison.duapp.com/db/test');
   $scope.search_page={
     test:function(){
       console.log(MDpoison.query());
