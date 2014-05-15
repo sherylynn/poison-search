@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8687b3d0-5e55-4f91-a6a8-7d7f64d58eda" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/bbc.html" afterPath="$PROJECT_DIR$/assets/view/bbc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/view/home.html" afterPath="$PROJECT_DIR$/assets/view/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/md_json/md_all.json" afterPath="$PROJECT_DIR$/assets/md_json/md_all.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/demo.css" afterPath="$PROJECT_DIR$/assets/css/demo.css" />
     </list>
     <ignored path="poison-search.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="demo.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1805" max-vertical-offset="2052">
-              <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.6054313" vertical-offset="1426" max-vertical-offset="2052">
+              <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -107,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bbc.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bbc.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/view/bbc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5846154" vertical-offset="0" max-vertical-offset="1197">
+            <state vertical-scroll-proportion="9.642858" vertical-offset="612" max-vertical-offset="1197">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding />
             </state>
@@ -187,13 +185,13 @@
         <option value="$PROJECT_DIR$/poisons/poisons.json" />
         <option value="$PROJECT_DIR$/assets/view/search.html" />
         <option value="$PROJECT_DIR$/assets/view/carousel.html" />
-        <option value="$PROJECT_DIR$/assets/css/demo.css" />
         <option value="$PROJECT_DIR$/assets/view/sidebarRight.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/assets/js/demo.js" />
         <option value="$PROJECT_DIR$/assets/view/home.html" />
         <option value="$PROJECT_DIR$/assets/view/bbc.html" />
+        <option value="$PROJECT_DIR$/assets/css/demo.css" />
       </list>
     </option>
   </component>
@@ -762,14 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2052">
-          <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2166">
@@ -828,8 +818,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/view/bbc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5846154" vertical-offset="0" max-vertical-offset="1197">
+        <state vertical-scroll-proportion="9.642858" vertical-offset="612" max-vertical-offset="1197">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6054313" vertical-offset="1426" max-vertical-offset="2052">
+          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding />
         </state>
       </provider>
