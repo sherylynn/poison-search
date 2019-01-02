@@ -7,10 +7,10 @@
         "start": "node server.js"
     },
     "dependencies": {
+        "corser": "2.0.0",
         "express": "~3.11.0",
-        "express-pouchdb": "0.1.4",
-        "socket.io": "2.2.0",
-        "iconv-lite": "0.2.11",
-        "corser": "2.0.0"
+        "express-pouchdb": "^4.1.0",
+        "iconv-lite": "^0.4.24",
+        "socket.io": "2.2.0"
     }
 }
